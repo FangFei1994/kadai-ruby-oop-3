@@ -1,6 +1,6 @@
 module Thinkable
     
-    def think(interest)
+    def think
         puts "私は#{interest}について考えています。"
     end
 end
